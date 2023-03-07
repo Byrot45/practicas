@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678217591 source:c:\users\jcarl\desktop\programas c\segundo semestre c++\practica 4\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
